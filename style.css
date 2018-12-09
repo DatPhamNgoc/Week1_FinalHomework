@@ -1,0 +1,23 @@
+body {
+  background-color: #896161;
+}
+.content h1 {
+  color: #fff;
+  position: relative;
+  margin: 60px;
+  padding: 8px;
+  text-align: center;
+  font-family: 'Pacifico', cursive;
+  font-size: 3rem;
+}
+.content p {
+  position: relative;
+  text-align:center;
+
+  color: #fff;
+  font-size:25px;
+  font-family: 'Montserrat', sans-serif;
+}
+div p:last-child {
+  font-size: 35px;
+}
